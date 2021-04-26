@@ -1,5 +1,5 @@
 //This backend program will run on an administrator PC
-//This code was written by Jesse Boggs, Hunter Parisey, Tim O'Brien, Judston Parling
+//This code was written by Jesse Boggs, Hunter Parisey, Tim O'Brien, Judston Parlin
 //Companion code can be found on GitHub at https://github.com/JesseABoggs/MistyWithBackend
 
 const { Connection, Request } = require("tedious");

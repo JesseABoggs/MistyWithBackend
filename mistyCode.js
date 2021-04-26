@@ -1,5 +1,5 @@
 // Misty II Covid Screening
-// Code modified and extended by Jesse Boggs, Hunter Parisey, Timothy O'Brien, and Judston Parlon
+// Code modified and extended by Jesse Boggs, Hunter Parisey, Timothy O'Brien, and Judston Parlin
 // For CIS 497 - Senior Project at the University of South Alabama
 // Spring 2021
 // This code and its companion code can be found on GitHub at https://github.com/JesseABoggs/MistyWithBackend
